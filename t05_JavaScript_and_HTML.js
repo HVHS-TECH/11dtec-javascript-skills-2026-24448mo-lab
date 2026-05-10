@@ -1,5 +1,5 @@
 
-<div id="JavaScriptOutput"> 
+<div id="spaceForJavaScriptOutput"> 
     <p>give it a try</p>
 </div>
 
