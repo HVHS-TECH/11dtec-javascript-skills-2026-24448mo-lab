@@ -18,7 +18,8 @@ console.log ("You were born in " + (actualYear - randomAge));
 console.log ("In 10 years you will be " + (randomAge + 10) + " years old");
 console.log ("In 10 years you will be " + (randomAge + 10) + " years old");
 console.log("You have " + randomMoney);
-console.log ("In 10 years you will be " + (randomAge + 10) + " years old");
+console.log ("You spend half of your money, now you have " + (randomMoney / 2));
+console.log ("Then you get $3, now you have " + (randomMoney / 2 + 3));
 
 
 
