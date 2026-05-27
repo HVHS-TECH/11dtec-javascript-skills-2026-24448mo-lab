@@ -7,3 +7,5 @@ console.log("sadasdadsa")
 
 // This is a single line comment
 
+let randomName = "Lukys";
+let randomAge = ;
