@@ -11,4 +11,6 @@ function welcome() {
 
 welcome()
 
-displayProduct
+function displayProduct() {
+    
+}
