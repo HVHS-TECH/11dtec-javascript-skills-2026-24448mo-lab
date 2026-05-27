@@ -10,3 +10,5 @@ function welcome() {
 
 
 welcome()
+
+console.log ()
