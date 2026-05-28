@@ -17,3 +17,10 @@ function displayProduct(_name, _price) {
 displayProduct ("Chocolate bar", 4)
 displayProduct ("Chips", 3)
 displayProduct ("Drink", 2.50)
+
+function start() {
+    OUTPUT.innerHTML = "<h1>Welcome to the shop</h1>";
+    displayProduct ("Chocolate bar", 4)
+    displayProduct ("Chips", 3)
+    displayProduct ("Drink", 2.50)
+}
