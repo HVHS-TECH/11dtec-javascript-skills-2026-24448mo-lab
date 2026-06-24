@@ -1,1 +1,2 @@
-alert("Hi")
+alert("Goodbye")
+prompt ("WHO ARE YOOU?")
