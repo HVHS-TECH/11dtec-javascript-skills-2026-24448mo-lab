@@ -1,2 +1,3 @@
 alert("Goodbye")
-prompt ("WHO ARE YOOU?")
+var name = prompt ("WHO ARE YOOU?")
+alert("Hi "+ name)
